@@ -16,7 +16,10 @@ export default defineConfig({
         text: '切割',
         items: [
           { text: '切金色玻璃棒棒糖', link: '/prompt/切割/切金色玻璃棒棒糖' },
-          { text: '切冰块质感的杯子蛋糕', link: '/prompt/切割/切冰块质感的杯子蛋糕' }
+          { text: '切冰块质感的杯子蛋糕', link: '/prompt/切割/切冰块质感的杯子蛋糕' },
+          { text: '切金色玻璃草莓', link: '/prompt/切割/切金色玻璃草莓' },
+          { text: '切玻璃榴莲', link: '/prompt/切割/切玻璃榴莲' },
+          { text: '切蓝色玻璃苹果', link: '/prompt/切割/切蓝色玻璃苹果' },
         ]
       }
     ],
